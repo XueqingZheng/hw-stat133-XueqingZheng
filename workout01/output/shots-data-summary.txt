@@ -1,0 +1,280 @@
+  team_name          game_date             season         period     
+ Length:4334        Length:4334        Min.   :2016   Min.   :1.000  
+ Class :character   Class :character   1st Qu.:2016   1st Qu.:1.000  
+ Mode  :character   Mode  :character   Median :2016   Median :2.000  
+                                       Mean   :2016   Mean   :2.351  
+                                       3rd Qu.:2016   3rd Qu.:3.000  
+                                       Max.   :2016   Max.   :4.000  
+ minutes_remaining seconds_remaining shot_made_flag     action_type       
+ Min.   : 0.000    Min.   : 0.00     Length:4334        Length:4334       
+ 1st Qu.: 2.000    1st Qu.:13.00     Class :character   Class :character  
+ Median : 5.000    Median :29.00     Mode  :character   Mode  :character  
+ Mean   : 5.412    Mean   :28.60                                          
+ 3rd Qu.: 8.000    3rd Qu.:43.75                                          
+ Max.   :11.000    Max.   :59.00                                          
+  shot_type         shot_distance     opponent               x           
+ Length:4334        Min.   : 0.00   Length:4334        Min.   :-248.000  
+ Class :character   1st Qu.: 2.25   Class :character   1st Qu.: -56.000  
+ Mode  :character   Median :19.00   Mode  :character   Median :   1.000  
+                    Mean   :15.58                      Mean   :   7.746  
+                    3rd Qu.:25.00                      3rd Qu.:  95.500  
+                    Max.   :71.00                      Max.   : 246.000  
+       y             name               minute    
+ Min.   :-39.0   Length:4334        Min.   : 1.0  
+ 1st Qu.: 13.0   Class :character   1st Qu.:11.0  
+ Median : 95.0   Mode  :character   Median :23.0  
+ Mean   :109.4                      Mean   :22.8  
+ 3rd Qu.:198.0                      3rd Qu.:33.0  
+ Max.   :717.0                      Max.   :48.0  
+   [1] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+   [5] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+   [9] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [13] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [17] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [21] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [25] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [29] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [33] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [37] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [41] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [45] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [49] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [53] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [57] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [61] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [65] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [69] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [73] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [77] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [81] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [85] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [89] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [93] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+  [97] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [101] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [105] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [109] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [113] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [117] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [121] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [125] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [129] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [133] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [137] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [141] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [145] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [149] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [153] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [157] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [161] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [165] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [169] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [173] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [177] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [181] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [185] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [189] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [193] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [197] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [201] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [205] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [209] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [213] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [217] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [221] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [225] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [229] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [233] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [237] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [241] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [245] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [249] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [253] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [257] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [261] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [265] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [269] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [273] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [277] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [281] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [285] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [289] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [293] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [297] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [301] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [305] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [309] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [313] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [317] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [321] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [325] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [329] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [333] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [337] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [341] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [345] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [349] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [353] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [357] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [361] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [365] Andre Iguodala Andre Iguodala Andre Iguodala Andre Iguodala
+ [369] Andre Iguodala Andre Iguodala Andre Iguodala Draymond Green
+ [373] Draymond Green Draymond Green Draymond Green Draymond Green
+ [377] Draymond Green Draymond Green Draymond Green Draymond Green
+ [381] Draymond Green Draymond Green Draymond Green Draymond Green
+ [385] Draymond Green Draymond Green Draymond Green Draymond Green
+ [389] Draymond Green Draymond Green Draymond Green Draymond Green
+ [393] Draymond Green Draymond Green Draymond Green Draymond Green
+ [397] Draymond Green Draymond Green Draymond Green Draymond Green
+ [401] Draymond Green Draymond Green Draymond Green Draymond Green
+ [405] Draymond Green Draymond Green Draymond Green Draymond Green
+ [409] Draymond Green Draymond Green Draymond Green Draymond Green
+ [413] Draymond Green Draymond Green Draymond Green Draymond Green
+ [417] Draymond Green Draymond Green Draymond Green Draymond Green
+ [421] Draymond Green Draymond Green Draymond Green Draymond Green
+ [425] Draymond Green Draymond Green Draymond Green Draymond Green
+ [429] Draymond Green Draymond Green Draymond Green Draymond Green
+ [433] Draymond Green Draymond Green Draymond Green Draymond Green
+ [437] Draymond Green Draymond Green Draymond Green Draymond Green
+ [441] Draymond Green Draymond Green Draymond Green Draymond Green
+ [445] Draymond Green Draymond Green Draymond Green Draymond Green
+ [449] Draymond Green Draymond Green Draymond Green Draymond Green
+ [453] Draymond Green Draymond Green Draymond Green Draymond Green
+ [457] Draymond Green Draymond Green Draymond Green Draymond Green
+ [461] Draymond Green Draymond Green Draymond Green Draymond Green
+ [465] Draymond Green Draymond Green Draymond Green Draymond Green
+ [469] Draymond Green Draymond Green Draymond Green Draymond Green
+ [473] Draymond Green Draymond Green Draymond Green Draymond Green
+ [477] Draymond Green Draymond Green Draymond Green Draymond Green
+ [481] Draymond Green Draymond Green Draymond Green Draymond Green
+ [485] Draymond Green Draymond Green Draymond Green Draymond Green
+ [489] Draymond Green Draymond Green Draymond Green Draymond Green
+ [493] Draymond Green Draymond Green Draymond Green Draymond Green
+ [497] Draymond Green Draymond Green Draymond Green Draymond Green
+ [501] Draymond Green Draymond Green Draymond Green Draymond Green
+ [505] Draymond Green Draymond Green Draymond Green Draymond Green
+ [509] Draymond Green Draymond Green Draymond Green Draymond Green
+ [513] Draymond Green Draymond Green Draymond Green Draymond Green
+ [517] Draymond Green Draymond Green Draymond Green Draymond Green
+ [521] Draymond Green Draymond Green Draymond Green Draymond Green
+ [525] Draymond Green Draymond Green Draymond Green Draymond Green
+ [529] Draymond Green Draymond Green Draymond Green Draymond Green
+ [533] Draymond Green Draymond Green Draymond Green Draymond Green
+ [537] Draymond Green Draymond Green Draymond Green Draymond Green
+ [541] Draymond Green Draymond Green Draymond Green Draymond Green
+ [545] Draymond Green Draymond Green Draymond Green Draymond Green
+ [549] Draymond Green Draymond Green Draymond Green Draymond Green
+ [553] Draymond Green Draymond Green Draymond Green Draymond Green
+ [557] Draymond Green Draymond Green Draymond Green Draymond Green
+ [561] Draymond Green Draymond Green Draymond Green Draymond Green
+ [565] Draymond Green Draymond Green Draymond Green Draymond Green
+ [569] Draymond Green Draymond Green Draymond Green Draymond Green
+ [573] Draymond Green Draymond Green Draymond Green Draymond Green
+ [577] Draymond Green Draymond Green Draymond Green Draymond Green
+ [581] Draymond Green Draymond Green Draymond Green Draymond Green
+ [585] Draymond Green Draymond Green Draymond Green Draymond Green
+ [589] Draymond Green Draymond Green Draymond Green Draymond Green
+ [593] Draymond Green Draymond Green Draymond Green Draymond Green
+ [597] Draymond Green Draymond Green Draymond Green Draymond Green
+ [601] Draymond Green Draymond Green Draymond Green Draymond Green
+ [605] Draymond Green Draymond Green Draymond Green Draymond Green
+ [609] Draymond Green Draymond Green Draymond Green Draymond Green
+ [613] Draymond Green Draymond Green Draymond Green Draymond Green
+ [617] Draymond Green Draymond Green Draymond Green Draymond Green
+ [621] Draymond Green Draymond Green Draymond Green Draymond Green
+ [625] Draymond Green Draymond Green Draymond Green Draymond Green
+ [629] Draymond Green Draymond Green Draymond Green Draymond Green
+ [633] Draymond Green Draymond Green Draymond Green Draymond Green
+ [637] Draymond Green Draymond Green Draymond Green Draymond Green
+ [641] Draymond Green Draymond Green Draymond Green Draymond Green
+ [645] Draymond Green Draymond Green Draymond Green Draymond Green
+ [649] Draymond Green Draymond Green Draymond Green Draymond Green
+ [653] Draymond Green Draymond Green Draymond Green Draymond Green
+ [657] Draymond Green Draymond Green Draymond Green Draymond Green
+ [661] Draymond Green Draymond Green Draymond Green Draymond Green
+ [665] Draymond Green Draymond Green Draymond Green Draymond Green
+ [669] Draymond Green Draymond Green Draymond Green Draymond Green
+ [673] Draymond Green Draymond Green Draymond Green Draymond Green
+ [677] Draymond Green Draymond Green Draymond Green Draymond Green
+ [681] Draymond Green Draymond Green Draymond Green Draymond Green
+ [685] Draymond Green Draymond Green Draymond Green Draymond Green
+ [689] Draymond Green Draymond Green Draymond Green Draymond Green
+ [693] Draymond Green Draymond Green Draymond Green Draymond Green
+ [697] Draymond Green Draymond Green Draymond Green Draymond Green
+ [701] Draymond Green Draymond Green Draymond Green Draymond Green
+ [705] Draymond Green Draymond Green Draymond Green Draymond Green
+ [709] Draymond Green Draymond Green Draymond Green Draymond Green
+ [713] Draymond Green Draymond Green Draymond Green Draymond Green
+ [717] Draymond Green Draymond Green Draymond Green Draymond Green
+ [721] Draymond Green Draymond Green Draymond Green Draymond Green
+ [725] Draymond Green Draymond Green Draymond Green Draymond Green
+ [729] Draymond Green Draymond Green Draymond Green Draymond Green
+ [733] Draymond Green Draymond Green Draymond Green Draymond Green
+ [737] Draymond Green Draymond Green Draymond Green Draymond Green
+ [741] Draymond Green Draymond Green Draymond Green Draymond Green
+ [745] Draymond Green Draymond Green Draymond Green Draymond Green
+ [749] Draymond Green Draymond Green Draymond Green Draymond Green
+ [753] Draymond Green Draymond Green Draymond Green Draymond Green
+ [757] Draymond Green Draymond Green Draymond Green Draymond Green
+ [761] Draymond Green Draymond Green Draymond Green Draymond Green
+ [765] Draymond Green Draymond Green Draymond Green Draymond Green
+ [769] Draymond Green Draymond Green Draymond Green Draymond Green
+ [773] Draymond Green Draymond Green Draymond Green Draymond Green
+ [777] Draymond Green Draymond Green Draymond Green Draymond Green
+ [781] Draymond Green Draymond Green Draymond Green Draymond Green
+ [785] Draymond Green Draymond Green Draymond Green Draymond Green
+ [789] Draymond Green Draymond Green Draymond Green Draymond Green
+ [793] Draymond Green Draymond Green Draymond Green Draymond Green
+ [797] Draymond Green Draymond Green Draymond Green Draymond Green
+ [801] Draymond Green Draymond Green Draymond Green Draymond Green
+ [805] Draymond Green Draymond Green Draymond Green Draymond Green
+ [809] Draymond Green Draymond Green Draymond Green Draymond Green
+ [813] Draymond Green Draymond Green Draymond Green Draymond Green
+ [817] Draymond Green Draymond Green Draymond Green Draymond Green
+ [821] Draymond Green Draymond Green Draymond Green Draymond Green
+ [825] Draymond Green Draymond Green Draymond Green Draymond Green
+ [829] Draymond Green Draymond Green Draymond Green Draymond Green
+ [833] Draymond Green Draymond Green Draymond Green Draymond Green
+ [837] Draymond Green Draymond Green Draymond Green Draymond Green
+ [841] Draymond Green Draymond Green Draymond Green Draymond Green
+ [845] Draymond Green Draymond Green Draymond Green Draymond Green
+ [849] Draymond Green Draymond Green Draymond Green Draymond Green
+ [853] Draymond Green Draymond Green Draymond Green Draymond Green
+ [857] Draymond Green Draymond Green Draymond Green Draymond Green
+ [861] Draymond Green Draymond Green Draymond Green Draymond Green
+ [865] Draymond Green Draymond Green Draymond Green Draymond Green
+ [869] Draymond Green Draymond Green Draymond Green Draymond Green
+ [873] Draymond Green Draymond Green Draymond Green Draymond Green
+ [877] Draymond Green Draymond Green Draymond Green Draymond Green
+ [881] Draymond Green Draymond Green Draymond Green Draymond Green
+ [885] Draymond Green Draymond Green Draymond Green Draymond Green
+ [889] Draymond Green Draymond Green Draymond Green Draymond Green
+ [893] Draymond Green Draymond Green Draymond Green Draymond Green
+ [897] Draymond Green Draymond Green Draymond Green Draymond Green
+ [901] Draymond Green Draymond Green Draymond Green Draymond Green
+ [905] Draymond Green Draymond Green Draymond Green Draymond Green
+ [909] Draymond Green Draymond Green Draymond Green Draymond Green
+ [913] Draymond Green Draymond Green Draymond Green Draymond Green
+ [917] Draymond Green Draymond Green Draymond Green Draymond Green
+ [921] Draymond Green Draymond Green Draymond Green Draymond Green
+ [925] Draymond Green Draymond Green Draymond Green Draymond Green
+ [929] Draymond Green Draymond Green Draymond Green Draymond Green
+ [933] Draymond Green Draymond Green Draymond Green Draymond Green
+ [937] Draymond Green Draymond Green Draymond Green Draymond Green
+ [941] Draymond Green Draymond Green Draymond Green Draymond Green
+ [945] Draymond Green Draymond Green Draymond Green Draymond Green
+ [949] Draymond Green Kevin Durant   Kevin Durant   Kevin Durant  
+ [953] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [957] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [961] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [965] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [969] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [973] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [977] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [981] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [985] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [989] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [993] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [997] Kevin Durant   Kevin Durant   Kevin Durant   Kevin Durant  
+ [ reached getOption("max.print") -- omitted 3334 entries ]
+5 Levels: Andre Iguodala Draymond Green Kevin Durant ... Stephen Curry
