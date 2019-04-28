@@ -1,0 +1,27 @@
+Package: binomial
+Type: Package
+Title: Binomial Distribution
+Version: 0.1.0
+Author: person("Xueqing", "Zheng", email = "blinda@berkeley.edu", role = c("aut", "cre"))
+Maintainer: Xueqing Zheng <blinda@berkeley.edu>
+Description: Provides functions to simulate binomial distribution times.
+Depends:
+    R (>= 3.1.0)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Collate: 
+    bin_choose.R
+    bin_cumulative.R
+    bin_distribution.R
+    bin_probability.R
+    bin_variable.R
+    functions_of_measures.R
+    private_auxiliary_functions.R
+    private_checker_functions.R
+RoxygenNote: 6.1.1
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr

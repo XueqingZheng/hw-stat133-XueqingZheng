@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556327555970.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "951339923",
+    "id" : "D3F12C9B",
+    "lastKnownWriteTime" : 1556327545,
+    "last_content_update" : 1556327545,
+    "path" : "C:/Users/89359/Desktop/STAT133/hw/workout03/binomial/tests/testthat.R",
+    "project_path" : "tests/testthat.R",
+    "properties" : {
+        "cursorPosition" : "3,22",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

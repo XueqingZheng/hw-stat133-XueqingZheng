@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556492125636.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1229913708",
+    "id" : "971BF5DD",
+    "lastKnownWriteTime" : 1556317121,
+    "last_content_update" : 1556317121,
+    "path" : "C:/Users/89359/Desktop/STAT133/hw/workout03/binomial/R/bin_variable.R",
+    "project_path" : "R/bin_variable.R",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 13,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
