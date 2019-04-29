@@ -7,21 +7,16 @@ Overview
 The package `"binomal"` is a minimal implementation for calculating probabilities of a Binomial random variable, and related calculations such as the probability distribution, the expected value, variance.
 
 -   `bin\_choose()`: calculates the number of combinations in which k successes can occur in n trials
--   `bin\_probability()`: calculates the probability of getting k successes in n trials with specific probability of success.
--   `bin\_distribution()`:  returns a data frame with the probability distribution
--   `bin\_cumnulative()`: returns a data frame with both the probability distribution and the cumulative probabilities
--   `bin\_variable()`: returns an object of class "binvar", a binomial random variable object.
--   `bin_variable()`: calculates a binomial random variable object.
-
--   `bin_mean()`: calculates the mean of a binomail distribution.
-
--   `bin_variance()`: calculates the varince of a binomail distribution.
-
--   `bin_mode()`: calculates the mode of a binomail distribution.
-
--   `bin_skewness()`: calculates the skewness of a binomail distribution.
-
--   `bin_kurtosis()`: calculates the kurtosis of a binomail distribution.
+-   `bin_probability()`: calculates the probability of getting k successes in n trials with specific probability of success.
+-   `bin_distribution()`:  returns a data frame with the probability distribution
+-   `bin_cumnulative()`: returns a data frame with both the probability distribution and the cumulative probabilities
+-   `bin_variable()`: returns an object of class "binvar", a binomial random variable object.
+-   `bin_variable()`: calculates a binomial random variable object
+-   `bin_mean()`: calculates the mean of a binomail distribution
+-   `bin_variance()`: calculates the varince of a binomail distribution
+-   `bin_mode()`: calculates the mode of a binomail distribution
+-   `bin_skewness()`: calculates the skewness of a binomail distribution
+-   `bin_kurtosis()`: calculates the kurtosis of a binomail distribution
 
 Installation
 ----------------------
