@@ -6,7 +6,7 @@ Overview
 
 The package `"binomal"` is a minimal implementation for calculating probabilities of a Binomial random variable, and related calculations such as the probability distribution, the expected value, variance.
 
--   `bin\_choose()`: calculates the number of combinations in which k successes can occur in n trials
+-   `bin_choose()`: calculates the number of combinations in which k successes can occur in n trials
 -   `bin_probability()`: calculates the probability of getting k successes in n trials with specific probability of success.
 -   `bin_distribution()`:  returns a data frame with the probability distribution
 -   `bin_cumnulative()`: returns a data frame with both the probability distribution and the cumulative probabilities
