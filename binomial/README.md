@@ -1,6 +1,6 @@
 README
 ================
-
+Click to see the [Instructions](https://github.com/ucb-stat133/stat133-hws/blob/master/2019-spring/workout03.pdf)
 Overview
 --------
 
