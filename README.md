@@ -13,8 +13,8 @@ Private Repository for HW assignments of Stat 133 (Spring 2019)
 ## Assignments
 
 - [Demo](demo)
-- [Workout 1](workout01)
-- [Workout 2](workout02)
-- [Workout 3](binomial)
+- [Workout 1:GSW Shot Charts](workout01)
+- [Workout 2:Shiny App](workout02)
+- [Workout 3:R Package binomial](binomial)
 
 
