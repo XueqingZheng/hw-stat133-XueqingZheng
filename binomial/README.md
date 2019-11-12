@@ -33,7 +33,7 @@ Install the development version from GitHub via the package
 # install "binomial" (without vignettes)
 devtools::install_github("stat133-sp19/hw-stat133-XueqingZheng/binomial")
 
-# install "cointoss" (with vignettes)
+# install "binomial" (with vignettes)
 devtools::install_github("stat133-sp19/hw-stat133-XueqingZheng/binomial", build_vignettes = TRUE)
 ```
 
